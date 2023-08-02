@@ -1,0 +1,10 @@
+# mutuable and immutable objects
+"""
+If an objet onecretated can be changeed later then
+the object is mutuable object
+
+But if an object once created can never be changed
+throuughout its life cycle then it is an immutable obeject
+eg
+ list, dictionary, set aree the example of mutable objects
+ Number. tuple, boolean are th example  of 

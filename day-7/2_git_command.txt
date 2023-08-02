@@ -1,0 +1,10 @@
+set upt git configuration in local
+1.git config --global user.name "grpaneru"
+2. git config --global user.email "girirajpaneru73@gmail.com"
+3. To verify; git config --global user.name
+              git config --global user.name
+             Initialize A Repo In Local
+             1.git init . (But make sure you are in correct project location)git
+             2.git status check the current status of the repo git clear
+             3. git add. add all the changes to git repo
+             4. git commit -m "<commit-message>"
