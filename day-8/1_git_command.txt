@@ -3,3 +3,8 @@
  2. git remote -v
    this command displays all the remotes connects to your local
    3. ssh-keygen -t rsa -b 4096 -c "girirajpaneru73@gmail.com"
+4. git add.
+It adds all the changes of repo to git
+5. git commit -m "<commit-message>"
+commits the changes added to git
+6. git push origin <remote_branche_name>
