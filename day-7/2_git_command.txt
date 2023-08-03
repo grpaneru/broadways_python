@@ -8,3 +8,5 @@ set upt git configuration in local
              2.git status check the current status of the repo git clear
              3. git add. add all the changes to git repo
              4. git commit -m "<commit-message>"
+             5. git branch= list all the git branches
+             6. git remote -v=list all the remote urls
