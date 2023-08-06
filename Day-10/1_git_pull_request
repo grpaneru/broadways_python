@@ -1,0 +1,3 @@
+while working in professional projects we do not merge codes from other branches to the main branch in local
+The codes in hte main branch should alwalys go through a review process known as pull request.
+pull request is opened in the github. It can be opened by seleecting two branches; one brancgh is the feature branch an another is thee main branch
