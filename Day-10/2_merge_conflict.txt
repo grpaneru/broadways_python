@@ -1,0 +1,5 @@
+Merge conflict arises if we try to merge one branch to another where  certain line of codes is
+commmited in one and the same of code is commited in the other branches
+a=1
+b=2
+print((a+b)cls
